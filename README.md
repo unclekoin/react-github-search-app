@@ -1,3 +1,3 @@
-# React Hooks App
+# Github Search App
 
-React, Bootstrap, SASS
+React, React Hooks, Bootstrap, SASS
